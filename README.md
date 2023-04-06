@@ -22,10 +22,10 @@ yarn add gpt4all
 
 ### 2. Import the GPT4All class
 
-In your TypeScript (or JavaScript) project, import the `GPT4All` class from the `gpt4all-ts` package:
+In your TypeScript (or JavaScript) project, import the `GPT4All` class from the `gpt4all` package:
 
 ```typescript
-import { GPT4All } from 'gpt4all-ts';
+import { GPT4All } from 'gpt4all';
 ```
 
 ### 3. Instantiate and use the GPT4All class
@@ -39,7 +39,7 @@ Happy coding! 💻🎉
 Below is an example of how to use the `GPT4All` class in TypeScript:
 
 ```typescript
-import { GPT4All } from 'gpt4all-ts';
+import { GPT4All } from 'gpt4all';
 
 const main = async () => {
     // Instantiate GPT4All with default or custom settings
